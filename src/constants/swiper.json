@@ -1,0 +1,72 @@
+[
+    {
+        "imgURL": "./item1.png",
+        "name": "Long sleeves shirt",
+        "category": "clothing",
+        "price": "100$",
+        "old": "150$"
+    },
+    {
+        "imgURL": "./item2.png",
+        "name": "Pure white gold",
+        "category": "Ladies",
+        "price": "19$",
+        "old": "109$"
+    },
+    {
+        "imgURL": "./item3.png",
+        "name": "Long nicker black",
+        "category": "garments",
+        "price": "10$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./item4.png",
+        "name": "Perfume Hot Black",
+        "category": "cosmetics",
+        "price": "100$",
+        "old": "150$"
+    },
+    {
+        "imgURL": "./item5.png",
+        "name": "shoes black leather",
+        "category": "Shoes",
+        "price": "100$",
+        "old": "150$"
+    },
+    {
+        "imgURL": "./item6.png",
+        "name": "Pure Black Label",
+        "category": "fragrance",
+        "price": "99$",
+        "old": "109$"
+    },
+    {
+        "imgURL": "./item7.png",
+        "name": "Rollex white watch",
+        "category": "Accessories",
+        "price": "80$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./item8.png",
+        "name": "Long sleeves shirt",
+        "category": "Children",
+        "price": "70$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./item9.png",
+        "name": "Long Black jacket",
+        "category": "Women",
+        "price": "60$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./item10.png",
+        "name": "Long stylish hoodie",
+        "category": "Men",
+        "price": "50$",
+        "old": "100$"
+    }
+]
